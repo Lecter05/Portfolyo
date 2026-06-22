@@ -1,9 +1,10 @@
-# Enes Bayram
-
+# Enes Bayram 
+### SOC / DFIR Analyst | Detection Engineering | Malware Analysis
 * Statik ve Dinamik zararlı yazılım analizi, Tespit kuralı geliştirme (SIEM/SOAR), olay müdahalesi, disk ve bellek adli bilişimi.
 * Aktif olarak Windows forensic lab çözümleri ve BYOVD - EDR kill senaryosu için kural geliştirme çalışmaları ile ilgileniyorum.
 
-[LinkedIn](https://www.linkedin.com/in/enes-bayram-624bab252) • [Medium](https://medium.com/@Lecter901)
+[LinkedIn](https://www.linkedin.com/in/enes-bayram-624bab252) • [Medium](https://medium.com/@Lecter901) • [CV](https://github.com/user-attachments/files/29206423/CV.Enes.Bayram.pdf)
+
 
 ---
 
@@ -11,9 +12,9 @@
 
 `Adli bilişim`: FTK ile imaj alma, KAPE ile artifact toplama, Eric Zimmerman araç setini (MFT, UsnJrnl, prefetch, Amcache, registry hive'ları) kullanarak saldırıyı Initial Access'ten C2'ye kadar timeline üzerinden yeniden kurup raporlama.
 
-`Tespit ve otomasyon`: Splunk (SIEM), Tines & Phantom (SOAR), tespit kuralı geliştirme, Atomic Red Team ile FP tuning.
+`Tespit ve otomasyon`: Splunk (SIEM), Tines & Phantom (SOAR), tespit kuralı geliştirme, Atomic Red Team ile FP tuning. 
 
-`Zararlı yazılım analizi`: REMnux, FLARE VM, statik ve dinamik analiz, x64dbg, IOC çıkarma ve rapor haline getirme.
+`Zararlı yazılım analizi`: REMnux, FLARE VM, statik ve dinamik analiz, x64dbg, Volatility, MemProcFS, Hayabusa, IOC çıkarma ve rapor haline getirme.
 
 `Ağ adli bilişimi`: Zeek (Zui), Suricata, Wireshark ile PCAP analizi.
 
@@ -24,7 +25,7 @@
 ### Gmail Phishing SOAR Playbook 
 
 Tines'ta oluşturduğum playbook, mail header'ını parse edip gönderici IP'sini, URL'leri ve ekleri VirusTotal ile kontrol ediyor, blacklist/whitelist'e bakıyor ve zararlıysa maili otomatik çöpe taşıyor. [İncele](https://github.com/Lecter05/Gmail-Phishing-Detection-Playbook)
-<img width="1225" height="938" alt="image" src="https://github.com/user-attachments/assets/ba3e16e6-30dc-4006-8775-f5e21dc2668d" /> 
+[<img width="1225" height="938" alt="image" src="https://github.com/user-attachments/assets/ba3e16e6-30dc-4006-8775-f5e21dc2668d" />](https://github.com/Lecter05/Gmail-Phishing-Detection-Playbook)
 
 
 
@@ -53,9 +54,6 @@ https://github.com/user-attachments/assets/55aa8085-54d4-463a-8763-15cb151b5256
 * Incident Responder Learning Path [LetsDefend](https://app.letsdefend.io/certificate/show/dc28e845-b82d-4495-a79d-79ac286ce7db) 
 * SOC Analyst Learning Path [LetsDefend](https://app.letsdefend.io/certificate/show/a3b8def7-0b0c-40c1-8ddd-cd9fe7ab140a) 
 * Windows ve Linux Olay Müdahale [Siber Kulüpler Birliği](https://siberkulupler.com/cert/SKB-2025-PCZZS) 
-
-
-
 
 
 
