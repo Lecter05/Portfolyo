@@ -41,6 +41,11 @@ Splunk'ta LSASS dump ve shadow copy delete için tespit kuralları yazıp kurall
 
 https://github.com/user-attachments/assets/55aa8085-54d4-463a-8763-15cb151b5256
 
+### MCP tabalı DFIR ve Malware Analizi [MCP dosyalarını indirme](https://files.catbox.moe/7rw7un.7z)
+MCP entegrasyonlarını sağlayarak; Wireshark/TShark, Volatility 3, IDA ve x64dbg araçlarını ile PCAP, bellek ve Windows PE dosyalarını triyajını hızlandırıp (5dk), otomatikleştiren yapı kurdum. Çıktıların kalitesi kontrol edildiğinde herhangi bir yanlışlık gözlemlenmedi. [Konuşmayı İncele](https://claude.ai/share/2034f582-c398-4b5e-8915-b7152b6a2dda)
+<img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/c993f74f-32c1-4dd9-b8df-457b93f72f88" />
+
+
 ---
 
 # Yazılarım
